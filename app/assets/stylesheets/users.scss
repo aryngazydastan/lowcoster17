@@ -2,8 +2,14 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.field {
-	
+
+.main {
+
+	background-image: url("Bitmap.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding-top: 100px;
+
 }
 
 h1 {
